@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sammie! <br/> <!--<a href="https://github.com/3luehack">Programmer</a>,--> <a href="https://github.com/3luehack">Cybersecurity Professional</a>,<!-- <a href="https://www.yojjutube.com/c/joshmadakor">YouTuber</a></h1>-->
+<h1>Hi, I'm Sammie! <br/> <!--<a href="https://github.com/3luehack">Programmer</a>,--> <a href="https://github.com/3luehack">Cybersecurity Professional</a><!-- <a href="https://www.yojjutube.com/c/joshmadakor">YouTuber</a></h1>-->
 
 <h2>👨‍💻 CYBERSECURITY PROJECTS:</h2>
 
